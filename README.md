@@ -1,4 +1,4 @@
-# 📧 Email Writer – Full Stack App with AI Agent
+# 📧 Email Writer – Full Stack App with AI
 
 Email Writer is a full-stack, AI-powered email generation platform that helps users craft professional, personalized, and context-aware emails. It combines a modern React + Vite frontend with a robust Spring Boot backend, and leverages Gemini 2.5 Flash as the intelligence layer to generate human-like, high-quality email drafts.
 
@@ -99,3 +99,4 @@ Contact: karipireddysuryateja@gmail.com
 This project is developed for academic and Skill Development use. Open for non-commercial contributions.  
 
 Attribution is appreciated.
+
