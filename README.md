@@ -35,7 +35,7 @@ Email Writer is a full-stack, AI-powered email generation platform that helps us
 ---
 
 ## 📁 Project Structure
-[
+```
 email-writer/
 │── email-writer-react/         # Frontend (React + Vite)
 │   ├── src/                    # Components, Axios API calls
@@ -46,28 +46,28 @@ email-writer/
 │   ├── src/main/java           # Java REST APIs
 │   ├── src/main/resources      # Config & properties
 │   └── pom.xml / build.gradle
-]
+```
 
 ---
 
 ## ⚙️ Installation & Setup
 
 ### 🔹 **Backend (Spring Boot)** 
-[
-- cd email-writer/email-writer-sb
-- ./mvnw spring-boot:run   # For Maven projects
-# OR
-- ./gradlew bootRun        # For Gradle projects
-]
+```
+  - cd email-writer/email-writer-sb
+  - ./mvnw spring-boot:run   # For Maven projects
+  # OR
+  - ./gradlew bootRun        # For Gradle projects
+```
 Backend runs on: [http://localhost:8080]
 
 
 ### 🔹 **Frontend (React + Vite)** 
-[
+```
   - cd email-writer/email-writer-react
   - npm install
   - npm run dev
-]
+```
 
 Frontend runs on: [http://localhost:5173]
 
@@ -97,4 +97,5 @@ Contact: karipireddysuryateja@gmail.com
 ## 📜 License
 
 This project is developed for academic and Skill Development use. Open for non-commercial contributions.  
+
 Attribution is appreciated.
